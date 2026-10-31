@@ -2,10 +2,10 @@
 const SHEET_URL = "https://script.google.com/macros/s/AKfycbyu-2E_UYGpesze6Lbg3Z5Q4ACOgmqlmnDminntD9ANN6jtE46kTh3jXcbiT_MfTjw/exec";
 const PRICE="1880"
 const FB_PIXEL_ID = "2238790460315244";
-const SPREADSHEET_ID = "";   // якщо скрипт створено НЕ з самої таблиці — вставте ID таблиці
+const SPREADSHEET_ID = "https://script.google.com/macros/s/AKfycbz4An-BYB2Lrrcxfm9fjFFMMaga1zybu9QLDAyqz3cVu68u8u6QUPlwWZGQ2ztenKM/exec";   // якщо скрипт створено НЕ з самої таблиці — вставте ID таблиці
 const SHEET_NAME = "Замовлення";
-const BOT_TOKEN = "";        // токен від @BotFather, напр. 123456:ABC-DEF...
-const CHAT_ID = "";          // ваш chat id або id групи (для груп починається з -)
+const BOT_TOKEN = "9101722384:AAEyzea7p4lYn4s-TfGlQuCHaV8KZhVnvOI";        // токен від @BotFather, напр. 123456:ABC-DEF...
+const CHAT_ID = "8742326704";          // ваш chat id або id групи (для груп починається з -)
 // ========================
 
 function getSS_() {
