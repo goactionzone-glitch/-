@@ -1,4 +1,7 @@
 // ===== НАЛАШТУВАННЯ =====
+const SHEET_URL = "https://script.google.com/macros/s/AKfycbyu-2E_UYGpesze6Lbg3Z5Q4ACOgmqlmnDminntD9ANN6jtE46kTh3jXcbiT_MfTjw/exec";
+const PRICE="1880"
+const FB_PIXEL_ID = "2238790460315244";
 const SPREADSHEET_ID = "";   // якщо скрипт створено НЕ з самої таблиці — вставте ID таблиці
 const SHEET_NAME = "Замовлення";
 const BOT_TOKEN = "";        // токен від @BotFather, напр. 123456:ABC-DEF...
