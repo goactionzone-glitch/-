@@ -1,5 +1,5 @@
 // ===== НАЛАШТУВАННЯ =====
-const SHEET_URL = "https://script.google.com/macros/library/d/1zW761vXdoqMqkmqlDEoPLJg7x_20UEtDZHueUtmaKdxkP1ESEUlX-iYK/14";
+const SHEET_URL = "https://script.google.com/macros/s/AKfycbztrwqmRKVNtvdw9LME3Iy-bscd7NcLKMIk1ZHvYiB_vuu7Q6niUzDYNSZOx0zgY50/exec";
 const PRICE="1880"
 const FB_PIXEL_ID = "2238790460315244";
 const SPREADSHEET_ID = "https://script.google.com/macros/s/AKfycbz4An-BYB2Lrrcxfm9fjFFMMaga1zybu9QLDAyqz3cVu68u8u6QUPlwWZGQ2ztenKM/exec";   // якщо скрипт створено НЕ з самої таблиці — вставте ID таблиці
