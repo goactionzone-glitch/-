@@ -45,6 +45,7 @@ form.addEventListener("submit", async e => {
   });
   try{
     await fetch(SHEET_URL, {method:"POST", mode:"no-cors", body});
+    try { sessionStorage.setItem("orderOk", "1"); } catch (e) {}
     location.href = "thanks.html";
     return;
   }catch(err){ msg.className="err"; msg.textContent="Не вдалося надіслати. Спробуйте ще раз."; }
